@@ -1,0 +1,1507 @@
+{
+  "1945": {
+      "note": "01945 Ruhland",
+      "einwohner": 11001,
+      "qkm": 199.147551,
+      "Voltis": 0,
+      "RS": 120665606064
+  },
+  "1968": {
+      "note": "01968 Senftenberg",
+      "einwohner": 24423,
+      "qkm": 117.292244,
+      "Voltis": 0,
+      "RS": 120660304304
+  },
+  "1979": {
+      "note": "01979 Lauchhammer",
+      "einwohner": 16088,
+      "qkm": 89.514749,
+      "Voltis": 0,
+      "RS": 120660176176
+  },
+  "1983": {
+      "note": "01983 Großräschen",
+      "einwohner": 9382,
+      "qkm": 81.115772,
+      "Voltis": 1,
+      "RS": 120660112112
+  },
+  "1987": {
+      "note": "01987 Schwarzheide N.L.",
+      "einwohner": 5972,
+      "qkm": 32.327707,
+      "Voltis": 0,
+      "RS": 120660296296
+  },
+  "1990": {
+      "note": "01990 Ortrand",
+      "einwohner": 3403,
+      "qkm": 21.19678,
+      "Voltis": 0,
+      "RS": 120665606104
+  },
+  "1993": {
+      "note": "01993 Schipkau",
+      "einwohner": 2761,
+      "qkm": 14.662106,
+      "Voltis": 0,
+      "RS": 120660285285
+  },
+  "1994": {
+      "note": "01994 Schipkau",
+      "einwohner": 1986,
+      "qkm": 23.877941,
+      "Voltis": 0,
+      "RS": 120660285285
+  },
+  "1996": {
+      "note": "01996 Senftenberg",
+      "einwohner": 1814,
+      "qkm": 15.393483,
+      "Voltis": 0,
+      "RS": 120660304304
+  },
+  "1998": {
+      "note": "01998 Schipkau",
+      "einwohner": 1415,
+      "qkm": 17.590324,
+      "Voltis": 0,
+      "RS": 120660285285
+  },
+  "3042": {
+      "note": "03042 Cottbus",
+      "einwohner": 18419,
+      "qkm": 20.863125,
+      "Voltis": 0,
+      "RS": 120520000000
+  },
+  "3044": {
+      "note": "03044 Cottbus",
+      "einwohner": 17694,
+      "qkm": 15.437891,
+      "Voltis": 1,
+      "RS": 120520000000
+  },
+  "3046": {
+      "note": "03046 Cottbus",
+      "einwohner": 20626,
+      "qkm": 8.030099,
+      "Voltis": 3,
+      "RS": 120520000000
+  },
+  "3048": {
+      "note": "03048 Cottbus",
+      "einwohner": 14639,
+      "qkm": 9.500613,
+      "Voltis": 0,
+      "RS": 120520000000
+  },
+  "3050": {
+      "note": "03050 Cottbus",
+      "einwohner": 14076,
+      "qkm": 6.203291,
+      "Voltis": 2,
+      "RS": 120520000000
+  },
+  "3051": {
+      "note": "03051 Cottbus",
+      "einwohner": 6526,
+      "qkm": 27.979303,
+      "Voltis": 0,
+      "RS": 120520000000
+  },
+  "3052": {
+      "note": "03052 Cottbus",
+      "einwohner": 1505,
+      "qkm": 31.457108,
+      "Voltis": 0,
+      "RS": 120520000000
+  },
+  "3053": {
+      "note": "03053 Cottbus",
+      "einwohner": 694,
+      "qkm": 6.640242,
+      "Voltis": 0,
+      "RS": 120520000000
+  },
+  "3054": {
+      "note": "03054 Cottbus",
+      "einwohner": 2302,
+      "qkm": 20.352006,
+      "Voltis": 0,
+      "RS": 120520000000
+  },
+  "3055": {
+      "note": "03055 Cottbus",
+      "einwohner": 3613,
+      "qkm": 19.080204,
+      "Voltis": 0,
+      "RS": 120520000000
+  },
+  "3058": {
+      "note": "03058 Neuhausen/Spree",
+      "einwohner": 5228,
+      "qkm": 135.411663,
+      "Voltis": 0,
+      "RS": 120710301301
+  },
+  "3096": {
+      "note": "03096 Burg/Spreewald u.a.",
+      "einwohner": 9426,
+      "qkm": 126.776711,
+      "Voltis": 0,
+      "RS": 120715101028
+  },
+  "3099": {
+      "note": "03099 Kolkwitz",
+      "einwohner": 9364,
+      "qkm": 105.060477,
+      "Voltis": 0,
+      "RS": 120710244244
+  },
+  "3103": {
+      "note": "03103 Neu-Seeland, Neupetershain",
+      "einwohner": 2035,
+      "qkm": 56.469848,
+      "Voltis": 0,
+      "RS": 120665601226
+  },
+  "3116": {
+      "note": "03116 Drebkau",
+      "einwohner": 5914,
+      "qkm": 144.699834,
+      "Voltis": 1,
+      "RS": 120710057057
+  },
+  "3119": {
+      "note": "03119 Welzow",
+      "einwohner": 3942,
+      "qkm": 39.643428,
+      "Voltis": 0,
+      "RS": 120710408408
+  },
+  "3130": {
+      "note": "03130 Spremberg, Tschernitz u.a.",
+      "einwohner": 27681,
+      "qkm": 280.583798,
+      "Voltis": 0,
+      "RS": 120710372372
+  },
+  "3149": {
+      "note": "03149 Forst/ Lausitz",
+      "einwohner": 22297,
+      "qkm": 186.716049,
+      "Voltis": 0,
+      "RS": 120710076076
+  },
+  "3159": {
+      "note": "03159 Döbern",
+      "einwohner": 5360,
+      "qkm": 98.455945,
+      "Voltis": 0,
+      "RS": 120715102044
+  },
+  "3172": {
+      "note": "03172 Guben, Schenkendöbern",
+      "einwohner": 22755,
+      "qkm": 271.384222,
+      "Voltis": 0,
+      "RS": 120710160160
+  },
+  "3185": {
+      "note": "03185 Peitz",
+      "einwohner": 9714,
+      "qkm": 203.396228,
+      "Voltis": 0,
+      "RS": 120715107052
+  },
+  "3197": {
+      "note": "03197 Jänschwalde",
+      "einwohner": 1455,
+      "qkm": 69.972256,
+      "Voltis": 0,
+      "RS": 120715107193
+  },
+  "3205": {
+      "note": "03205 Calau, Bronkow",
+      "einwohner": 9068,
+      "qkm": 202.684852,
+      "Voltis": 0,
+      "RS": 120660052052
+  },
+  "3222": {
+      "note": "03222 Lübbenau/ Spreewald",
+      "einwohner": 16525,
+      "qkm": 139.822489,
+      "Voltis": 5,
+      "RS": 120660196196
+  },
+  "3226": {
+      "note": "03226 Vetschau",
+      "einwohner": 8798,
+      "qkm": 111.674939,
+      "Voltis": 0,
+      "RS": 120660320320
+  },
+  "3229": {
+      "note": "03229 Altdöbern, Luckaitztal",
+      "einwohner": 3606,
+      "qkm": 103.021699,
+      "Voltis": 0,
+      "RS": 120665601008
+  },
+  "3238": {
+      "note": "03238 Finsterwalde",
+      "einwohner": 24729,
+      "qkm": 299.226035,
+      "Voltis": 1,
+      "RS": 120620140140
+  },
+  "3246": {
+      "note": "03246 Crinitz",
+      "einwohner": 1395,
+      "qkm": 44.645426,
+      "Voltis": 0,
+      "RS": 120625205088
+  },
+  "3249": {
+      "note": "03249 Sonnewalde",
+      "einwohner": 3503,
+      "qkm": 120.115964,
+      "Voltis": 0,
+      "RS": 120620469469
+  },
+  "3253": {
+      "note": "03253 Doberlug-Kirchhain",
+      "einwohner": 12064,
+      "qkm": 208.342278,
+      "Voltis": 1,
+      "RS": 120620092092
+  },
+  "4895": {
+      "note": "04895 Falkenberg/ Elster",
+      "einwohner": 8588,
+      "qkm": 151.013754,
+      "Voltis": 0,
+      "RS": 120620128128
+  },
+  "4910": {
+      "note": "04910 Elsterwerda",
+      "einwohner": 8611,
+      "qkm": 41.378492,
+      "Voltis": 0,
+      "RS": 120620124124
+  },
+  "4916": {
+      "note": "04916 Herzberg/ Elster",
+      "einwohner": 13189,
+      "qkm": 315.014916,
+      "Voltis": 0,
+      "RS": 120620224224
+  },
+  "4924": {
+      "note": "04924 Bad Liebenwerda",
+      "einwohner": 11917,
+      "qkm": 172.353337,
+      "Voltis": 0,
+      "RS": 120620024024
+  },
+  "4928": {
+      "note": "04928 Plessa, Schraden",
+      "einwohner": 3436,
+      "qkm": 69.291661,
+      "Voltis": 0,
+      "RS": 120625207372
+  },
+  "4931": {
+      "note": "04931 Mühlberg, Bad Liebenwerda",
+      "einwohner": 3956,
+      "qkm": 82.476923,
+      "Voltis": 0,
+      "RS": 120620341341
+  },
+  "4932": {
+      "note": "04932 Röderland, Großthiemig u.a.",
+      "einwohner": 9156,
+      "qkm": 122.586016,
+      "Voltis": 0,
+      "RS": 120620410410
+  },
+  "4934": {
+      "note": "04934 Hohenleipisch",
+      "einwohner": 2218,
+      "qkm": 34.408222,
+      "Voltis": 0,
+      "RS": 120625207240
+  },
+  "4936": {
+      "note": "04936 Schlieben",
+      "einwohner": 5430,
+      "qkm": 200.346291,
+      "Voltis": 0,
+      "RS": 120625209134
+  },
+  "4938": {
+      "note": "04938 Uebigau-Wahrenbrück",
+      "einwohner": 2403,
+      "qkm": 41.29189,
+      "Voltis": 0,
+      "RS": 120620500500
+  },
+  "12529": {
+      "note": "12529 Schönefeld",
+      "einwohner": 13419,
+      "qkm": 81.748154,
+      "Voltis": 0,
+      "RS": 120610433433
+  },
+  "14467": {
+      "note": "14467 Potsdam",
+      "einwohner": 13113,
+      "qkm": 4.052545,
+      "Voltis": 2,
+      "RS": 120540000000
+  },
+  "14469": {
+      "note": "14469 Potsdam",
+      "einwohner": 24882,
+      "qkm": 47.597457,
+      "Voltis": 2,
+      "RS": 120540000000
+  },
+  "14471": {
+      "note": "14471 Potsdam",
+      "einwohner": 17443,
+      "qkm": 14.059449,
+      "Voltis": 1,
+      "RS": 120540000000
+  },
+  "14473": {
+      "note": "14473 Potsdam",
+      "einwohner": 11335,
+      "qkm": 18.900963,
+      "Voltis": 1,
+      "RS": 120540000000
+  },
+  "14476": {
+      "note": "14476 Potsdam",
+      "einwohner": 13552,
+      "qkm": 78.139404,
+      "Voltis": 1,
+      "RS": 120540000000
+  },
+  "14478": {
+      "note": "14478 Potsdam",
+      "einwohner": 24831,
+      "qkm": 6.517958,
+      "Voltis": 6,
+      "RS": 120540000000
+  },
+  "14480": {
+      "note": "14480 Potsdam",
+      "einwohner": 28576,
+      "qkm": 9.523126,
+      "Voltis": 0,
+      "RS": 120540000000
+  },
+  "14482": {
+      "note": "14482 Potsdam",
+      "einwohner": 22193,
+      "qkm": 9.745288,
+      "Voltis": 4,
+      "RS": 120540000000
+  },
+  "14513": {
+      "note": "14513 Teltow",
+      "einwohner": 22479,
+      "qkm": 21.718374,
+      "Voltis": 1,
+      "RS": 120690616616
+  },
+  "14532": {
+      "note": "14532 Kleinmachnow",
+      "einwohner": 34096,
+      "qkm": 61.428706,
+      "Voltis": 2,
+      "RS": 120690304304
+  },
+  "14542": {
+      "note": "14542 Werder/ Havel",
+      "einwohner": 23270,
+      "qkm": 116.865318,
+      "Voltis": 3,
+      "RS": 120690656656
+  },
+  "14547": {
+      "note": "14547 Beelitz",
+      "einwohner": 11763,
+      "qkm": 181.374182,
+      "Voltis": 0,
+      "RS": 120690017017
+  },
+  "14548": {
+      "note": "14548 Schwielowswee",
+      "einwohner": 9995,
+      "qkm": 58.599029,
+      "Voltis": 0,
+      "RS": 120690590590
+  },
+  "14550": {
+      "note": "14550 Groß Kreutz",
+      "einwohner": 8193,
+      "qkm": 99.339635,
+      "Voltis": 0,
+      "RS": 120690249249
+  },
+  "14552": {
+      "note": "14552 Michendorf",
+      "einwohner": 11686,
+      "qkm": 68.8565,
+      "Voltis": 0,
+      "RS": 120690397397
+  },
+  "14554": {
+      "note": "14554 Seddiner See",
+      "einwohner": 3946,
+      "qkm": 23.913297,
+      "Voltis": 0,
+      "RS": 120690596596
+  },
+  "14558": {
+      "note": "14558 Nuthetal",
+      "einwohner": 8601,
+      "qkm": 47.87301,
+      "Voltis": 0,
+      "RS": 120690454454
+  },
+  "14612": {
+      "note": "14612 Falkensee",
+      "einwohner": 40187,
+      "qkm": 43.25999,
+      "Voltis": 2,
+      "RS": 120630080080
+  },
+  "14621": {
+      "note": "14621 Schönwalde",
+      "einwohner": 8836,
+      "qkm": 97.278882,
+      "Voltis": 0,
+      "RS": 120630273273
+  },
+  "14624": {
+      "note": "14624 Dallgow-Döberitz",
+      "einwohner": 8635,
+      "qkm": 66.49165,
+      "Voltis": 0,
+      "RS": 120630056056
+  },
+  "14641": {
+      "note": "14641 Nauen",
+      "einwohner": 26761,
+      "qkm": 386.371889,
+      "Voltis": 0,
+      "RS": 120630208208
+  },
+  "14656": {
+      "note": "14656 Brieselang",
+      "einwohner": 10745,
+      "qkm": 44.402308,
+      "Voltis": 0,
+      "RS": 120630036036
+  },
+  "14662": {
+      "note": "14662 Friesack",
+      "einwohner": 4073,
+      "qkm": 170.864652,
+      "Voltis": 0,
+      "RS": 120635302088
+  },
+  "14669": {
+      "note": "14669 Ketzin",
+      "einwohner": 6345,
+      "qkm": 94.413335,
+      "Voltis": 0,
+      "RS": 120630148148
+  },
+  "14712": {
+      "note": "14712 Rathenow",
+      "einwohner": 24526,
+      "qkm": 113.831994,
+      "Voltis": 0,
+      "RS": 120630252252
+  },
+  "14715": {
+      "note": "14715 Milower Land, Schollene, Nennhausen u.a.",
+      "einwohner": 12409,
+      "qkm": 605.516777,
+      "Voltis": 0,
+      "RS": 120630189189
+  },
+  "14727": {
+      "note": "14727 Premnitz",
+      "einwohner": 8663,
+      "qkm": 45.986239,
+      "Voltis": 0,
+      "RS": 120630244244
+  },
+  "14728": {
+      "note": "14728 Rhinow",
+      "einwohner": 2526,
+      "qkm": 104.431961,
+      "Voltis": 0,
+      "RS": 120635309094
+  },
+  "14770": {
+      "note": "14770 Brandenburg an der Havel",
+      "einwohner": 22112,
+      "qkm": 16.146136,
+      "Voltis": 1,
+      "RS": 120510000000
+  },
+  "14772": {
+      "note": "14772 Brandenburg an der Havel",
+      "einwohner": 19451,
+      "qkm": 34.493438,
+      "Voltis": 0,
+      "RS": 120510000000
+  },
+  "14774": {
+      "note": "14774 Brandenburg an der Havel",
+      "einwohner": 6621,
+      "qkm": 63.125926,
+      "Voltis": 1,
+      "RS": 120510000000
+  },
+  "14776": {
+      "note": "14776 Brandenburg an der Havel",
+      "einwohner": 23481,
+      "qkm": 106.543948,
+      "Voltis": 1,
+      "RS": 120510000000
+  },
+  "14778": {
+      "note": "14778 Beetzsee, Wollin, Wenzlow, Golzow u.a.",
+      "einwohner": 7663,
+      "qkm": 220.061771,
+      "Voltis": 0,
+      "RS": 120695902018
+  },
+  "14789": {
+      "note": "14789 Wusterwitz, Rosenau, Bensdorf",
+      "einwohner": 5367,
+      "qkm": 107.98375,
+      "Voltis": 0,
+      "RS": 120695917028
+  },
+  "14793": {
+      "note": "14793 Ziesar",
+      "einwohner": 3623,
+      "qkm": 148.031995,
+      "Voltis": 0,
+      "RS": 120695918089
+  },
+  "14797": {
+      "note": "14797 Lehnin",
+      "einwohner": 10849,
+      "qkm": 199.445142,
+      "Voltis": 0,
+      "RS": 120690306306
+  },
+  "14798": {
+      "note": "14798 Havelsee",
+      "einwohner": 3432,
+      "qkm": 81.981653,
+      "Voltis": 0,
+      "RS": 120695902270
+  },
+  "14806": {
+      "note": "14806 Belzig",
+      "einwohner": 12212,
+      "qkm": 279.126112,
+      "Voltis": 0,
+      "RS": 120690020020
+  },
+  "14822": {
+      "note": "14822 Brück, Borkheide u.a.",
+      "einwohner": 9764,
+      "qkm": 232.749807,
+      "Voltis": 0,
+      "RS": 120695904052
+  },
+  "14823": {
+      "note": "14823 Niemegk",
+      "einwohner": 3148,
+      "qkm": 145.756301,
+      "Voltis": 0,
+      "RS": 120695910402
+  },
+  "14827": {
+      "note": "14827 Wiesenburg",
+      "einwohner": 4607,
+      "qkm": 220.282372,
+      "Voltis": 0,
+      "RS": 120690665665
+  },
+  "14828": {
+      "note": "14828 Görzke",
+      "einwohner": 1316,
+      "qkm": 75.297773,
+      "Voltis": 0,
+      "RS": 120695918224
+  },
+  "14913": {
+      "note": "14913 Jüterbog",
+      "einwohner": 21726,
+      "qkm": 568.597109,
+      "Voltis": 0,
+      "RS": 120720169169
+  },
+  "14929": {
+      "note": "14929 Treuenbrietzen",
+      "einwohner": 7599,
+      "qkm": 212.742543,
+      "Voltis": 1,
+      "RS": 120690632632
+  },
+  "14943": {
+      "note": "14943 Luckenwalde",
+      "einwohner": 20283,
+      "qkm": 46.67288,
+      "Voltis": 0,
+      "RS": 120720232232
+  },
+  "14947": {
+      "note": "14947 Nuthe-Urstromtal",
+      "einwohner": 6559,
+      "qkm": 341.868129,
+      "Voltis": 1,
+      "RS": 120720312312
+  },
+  "14959": {
+      "note": "14959 Trebbin",
+      "einwohner": 9258,
+      "qkm": 126.622163,
+      "Voltis": 0,
+      "RS": 120720426426
+  },
+  "14974": {
+      "note": "14974 Ludwigsfelde",
+      "einwohner": 23680,
+      "qkm": 110.174597,
+      "Voltis": 0,
+      "RS": 120720240240
+  },
+  "14979": {
+      "note": "14979 Großbeeren",
+      "einwohner": 7651,
+      "qkm": 51.81756,
+      "Voltis": 2,
+      "RS": 120720120120
+  },
+  "15230": {
+      "note": "15230 Frankfurt (Oder)",
+      "einwohner": 16879,
+      "qkm": 5.378892,
+      "Voltis": 0,
+      "RS": 120530000000
+  },
+  "15232": {
+      "note": "15232 Frankfurt (Oder)",
+      "einwohner": 10015,
+      "qkm": 2.245974,
+      "Voltis": 0,
+      "RS": 120530000000
+  },
+  "15234": {
+      "note": "15234 Frankfurt (Oder)",
+      "einwohner": 19126,
+      "qkm": 83.40013,
+      "Voltis": 0,
+      "RS": 120530000000
+  },
+  "15236": {
+      "note": "15236 Treplin, Jacobsdorf, Frankfurt (Oder)",
+      "einwohner": 15475,
+      "qkm": 119.245027,
+      "Voltis": 1,
+      "RS": 120645406480
+  },
+  "15295": {
+      "note": "15295 Brieskow-Finkenheerd",
+      "einwohner": 7167,
+      "qkm": 87.698665,
+      "Voltis": 0,
+      "RS": 120675701076
+  },
+  "15299": {
+      "note": "15299 Müllrose",
+      "einwohner": 5896,
+      "qkm": 128.123363,
+      "Voltis": 0,
+      "RS": 120675708205
+  },
+  "15306": {
+      "note": "15306 Seelow, Lietzen u.a.",
+      "einwohner": 11790,
+      "qkm": 270.964585,
+      "Voltis": 0,
+      "RS": 120640448448
+  },
+  "15320": {
+      "note": "15320 Neutrebbin, Neuhardenberg",
+      "einwohner": 4028,
+      "qkm": 115.348167,
+      "Voltis": 0,
+      "RS": 120645410340
+  },
+  "15324": {
+      "note": "15324 Letschin",
+      "einwohner": 4352,
+      "qkm": 142.405893,
+      "Voltis": 0,
+      "RS": 120640274274
+  },
+  "15326": {
+      "note": "15326 Zeschdorf, Podelzig, Lebus",
+      "einwohner": 5469,
+      "qkm": 120.372687,
+      "Voltis": 0,
+      "RS": 120645406268
+  },
+  "15328": {
+      "note": "15328 Golzow, Zechin u.a.",
+      "einwohner": 6179,
+      "qkm": 176.082838,
+      "Voltis": 0,
+      "RS": 120645404009
+  },
+  "15344": {
+      "note": "15344 Strausberg",
+      "einwohner": 25565,
+      "qkm": 68.082893,
+      "Voltis": 2,
+      "RS": 120640472472
+  },
+  "15345": {
+      "note": "15345 Lichtenow, Altlandsberg u.a.",
+      "einwohner": 21797,
+      "qkm": 302.919129,
+      "Voltis": 0,
+      "RS": 120640029029
+  },
+  "15366": {
+      "note": "15366 Neuenhagen, Hoppegarten",
+      "einwohner": 33351,
+      "qkm": 51.624966,
+      "Voltis": 3,
+      "RS": 120640227227
+  },
+  "15370": {
+      "note": "15370 Fredersdorf-Vogelsdorf, Petershagen",
+      "einwohner": 20762,
+      "qkm": 27.659262,
+      "Voltis": 0,
+      "RS": 120640136136
+  },
+  "15374": {
+      "note": "15374 Müncheberg",
+      "einwohner": 6893,
+      "qkm": 152.5087,
+      "Voltis": 0,
+      "RS": 120640317317
+  },
+  "15377": {
+      "note": "15377 Oberbarnim, Märkische Höhe u.a.",
+      "einwohner": 4389,
+      "qkm": 117.349895,
+      "Voltis": 0,
+      "RS": 120645408084
+  },
+  "15378": {
+      "note": "15378 Rüdersdorf bei Berlin",
+      "einwohner": 4685,
+      "qkm": 24.238389,
+      "Voltis": 0,
+      "RS": 120640428428
+  },
+  "15517": {
+      "note": "15517 Fürstenwalde/ Spree",
+      "einwohner": 30982,
+      "qkm": 70.872597,
+      "Voltis": 0,
+      "RS": 120670144144
+  },
+  "15518": {
+      "note": "15518 Briesen, Rauen u.a.",
+      "einwohner": 11146,
+      "qkm": 325.790803,
+      "Voltis": 0,
+      "RS": 120670473473
+  },
+  "15526": {
+      "note": "15526 Bad Saarow-Pieskow",
+      "einwohner": 5988,
+      "qkm": 76.755354,
+      "Voltis": 0,
+      "RS": 120675707024
+  },
+  "15528": {
+      "note": "15528 Spreenhagen",
+      "einwohner": 3334,
+      "qkm": 137.158736,
+      "Voltis": 0,
+      "RS": 120675709469
+  },
+  "15537": {
+      "note": "15537 Erkner",
+      "einwohner": 22085,
+      "qkm": 159.068313,
+      "Voltis": 0,
+      "RS": 120670124124
+  },
+  "15562": {
+      "note": "15562 Rüdersdorf",
+      "einwohner": 9724,
+      "qkm": 38.354051,
+      "Voltis": 0,
+      "RS": 120640428428
+  },
+  "15566": {
+      "note": "15566 Schöneiche bei Berlin",
+      "einwohner": 11827,
+      "qkm": 16.774051,
+      "Voltis": 0,
+      "RS": 120670440440
+  },
+  "15569": {
+      "note": "15569 Woltersdorf",
+      "einwohner": 7771,
+      "qkm": 9.198621,
+      "Voltis": 0,
+      "RS": 120670544544
+  },
+  "15711": {
+      "note": "15711 Königs Wusterhausen",
+      "einwohner": 22181,
+      "qkm": 25.108234,
+      "Voltis": 2,
+      "RS": 120610260260
+  },
+  "15712": {
+      "note": "15712 Königs Wusterhausen",
+      "einwohner": 6987,
+      "qkm": 28.617831,
+      "Voltis": 0,
+      "RS": 120610260260
+  },
+  "15713": {
+      "note": "15713 Königs Wusterhausen",
+      "einwohner": 4549,
+      "qkm": 42.408983,
+      "Voltis": 0,
+      "RS": 120610260260
+  },
+  "15732": {
+      "note": "15732 Schulzendorf b. Eichenwade",
+      "einwohner": 13868,
+      "qkm": 11.934792,
+      "Voltis": 1,
+      "RS": 120610112112
+  },
+  "15738": {
+      "note": "15738 Zeuthen",
+      "einwohner": 10568,
+      "qkm": 12.74003,
+      "Voltis": 0,
+      "RS": 120610572572
+  },
+  "15741": {
+      "note": "15741 Bestensee",
+      "einwohner": 6640,
+      "qkm": 38.106026,
+      "Voltis": 0,
+      "RS": 120610020020
+  },
+  "15745": {
+      "note": "15745 Wildau",
+      "einwohner": 9744,
+      "qkm": 9.125981,
+      "Voltis": 0,
+      "RS": 120610540540
+  },
+  "15746": {
+      "note": "15746 Groß Köris",
+      "einwohner": 2255,
+      "qkm": 68.516514,
+      "Voltis": 0,
+      "RS": 120615108192
+  },
+  "15748": {
+      "note": "15748 Märkisch Buchholz",
+      "einwohner": 1269,
+      "qkm": 87.36097,
+      "Voltis": 0,
+      "RS": 120615108328
+  },
+  "15749": {
+      "note": "15749 Mittenwalde",
+      "einwohner": 8652,
+      "qkm": 99.751448,
+      "Voltis": 0,
+      "RS": 120610332332
+  },
+  "15754": {
+      "note": "15754 Heidesee",
+      "einwohner": 7056,
+      "qkm": 135.932722,
+      "Voltis": 0,
+      "RS": 120610217217
+  },
+  "15755": {
+      "note": "15755 Teupitz",
+      "einwohner": 2620,
+      "qkm": 55.013544,
+      "Voltis": 0,
+      "RS": 120615108448
+  },
+  "15757": {
+      "note": "15757 Halbe",
+      "einwohner": 2213,
+      "qkm": 76.748281,
+      "Voltis": 0,
+      "RS": 120615108216
+  },
+  "15806": {
+      "note": "15806 Zossen",
+      "einwohner": 17263,
+      "qkm": 180.419242,
+      "Voltis": 0,
+      "RS": 120720477477
+  },
+  "15827": {
+      "note": "15827 Blankenfelde-Mahlow",
+      "einwohner": 12838,
+      "qkm": 22.785064,
+      "Voltis": 0,
+      "RS": 120720017017
+  },
+  "15831": {
+      "note": "15831 Blankenfelde-Mahlow",
+      "einwohner": 12753,
+      "qkm": 32.465086,
+      "Voltis": 0,
+      "RS": 120720017017
+  },
+  "15834": {
+      "note": "15834 Rangsdorf",
+      "einwohner": 10405,
+      "qkm": 33.8824,
+      "Voltis": 0,
+      "RS": 120720340340
+  },
+  "15837": {
+      "note": "15837 Baruth",
+      "einwohner": 4237,
+      "qkm": 234.248849,
+      "Voltis": 0,
+      "RS": 120720014014
+  },
+  "15838": {
+      "note": "15838 Am Mellensee",
+      "einwohner": 6547,
+      "qkm": 104.866331,
+      "Voltis": 0,
+      "RS": 120720002002
+  },
+  "15848": {
+      "note": "15848 Beeskow",
+      "einwohner": 20015,
+      "qkm": 603.542161,
+      "Voltis": 0,
+      "RS": 120670036036
+  },
+  "15859": {
+      "note": "15859 Storkow",
+      "einwohner": 9060,
+      "qkm": 180.734453,
+      "Voltis": 0,
+      "RS": 120670481481
+  },
+  "15864": {
+      "note": "15864 Wendisch Rietz",
+      "einwohner": 1981,
+      "qkm": 34.716605,
+      "Voltis": 0,
+      "RS": 120675707112
+  },
+  "15868": {
+      "note": "15868 Lieberose",
+      "einwohner": 2090,
+      "qkm": 116.756125,
+      "Voltis": 0,
+      "RS": 120615113224
+  },
+  "15890": {
+      "note": "15890 Eisenhüttenstadt",
+      "einwohner": 32479,
+      "qkm": 196.145499,
+      "Voltis": 0,
+      "RS": 120670120120
+  },
+  "15898": {
+      "note": "15898 Neuzelle",
+      "einwohner": 6816,
+      "qkm": 184.947988,
+      "Voltis": 1,
+      "RS": 120675705292
+  },
+  "15907": {
+      "note": "15907 Lübben (Spreewald)",
+      "einwohner": 13897,
+      "qkm": 121.081213,
+      "Voltis": 1,
+      "RS": 120610316316
+  },
+  "15910": {
+      "note": "15910 Schönwalde",
+      "einwohner": 4850,
+      "qkm": 216.478912,
+      "Voltis": 0,
+      "RS": 120615114017
+  },
+  "15913": {
+      "note": "15913 Straupitz",
+      "einwohner": 9845,
+      "qkm": 509.859643,
+      "Voltis": 0,
+      "RS": 120610329329
+  },
+  "15926": {
+      "note": "15926 Luckau, Waldrehna, Heideblick, Fürstlich Drehna",
+      "einwohner": 13865,
+      "qkm": 375.52945,
+      "Voltis": 1,
+      "RS": 120610219219
+  },
+  "15936": {
+      "note": "15936 Dahme u.a.",
+      "einwohner": 6618,
+      "qkm": 252.273437,
+      "Voltis": 0,
+      "RS": 120725204053
+  },
+  "15938": {
+      "note": "15938 Golßen",
+      "einwohner": 4504,
+      "qkm": 165.850951,
+      "Voltis": 0,
+      "RS": 120615114097
+  },
+  "16225": {
+      "note": "16225 Eberswalde",
+      "einwohner": 23529,
+      "qkm": 74.616371,
+      "Voltis": 0,
+      "RS": 120600052052
+  },
+  "16227": {
+      "note": "16227 Eberswalde",
+      "einwohner": 15774,
+      "qkm": 19.312973,
+      "Voltis": 0,
+      "RS": 120600052052
+  },
+  "16230": {
+      "note": "16230 Melchow, Chorin u.a.",
+      "einwohner": 7137,
+      "qkm": 222.224122,
+      "Voltis": 0,
+      "RS": 120605003034
+  },
+  "16244": {
+      "note": "16244 Schorfheide",
+      "einwohner": 9825,
+      "qkm": 236.228374,
+      "Voltis": 0,
+      "RS": 120600198198
+  },
+  "16247": {
+      "note": "16247 Joachimsthal u.a.",
+      "einwohner": 5326,
+      "qkm": 210.32279,
+      "Voltis": 0,
+      "RS": 120605006012
+  },
+  "16248": {
+      "note": "16248 Oderberg u.a.",
+      "einwohner": 5814,
+      "qkm": 133.5493,
+      "Voltis": 0,
+      "RS": 120605011092
+  },
+  "16259": {
+      "note": "16259 Bad Freienwalde u.a.",
+      "einwohner": 20095,
+      "qkm": 413.44305,
+      "Voltis": 0,
+      "RS": 120640044044
+  },
+  "16269": {
+      "note": "16269 Wriezen",
+      "einwohner": 8577,
+      "qkm": 130.197413,
+      "Voltis": 0,
+      "RS": 120640512512
+  },
+  "16278": {
+      "note": "16278 Angermünde",
+      "einwohner": 16795,
+      "qkm": 429.894459,
+      "Voltis": 0,
+      "RS": 120730008008
+  },
+  "16303": {
+      "note": "16303 Schwedt",
+      "einwohner": 31833,
+      "qkm": 205.992664,
+      "Voltis": 0,
+      "RS": 120730532532
+  },
+  "16306": {
+      "note": "16306 Biesendahlshof, Berkholz-Meyenburg",
+      "einwohner": 6316,
+      "qkm": 231.489015,
+      "Voltis": 0,
+      "RS": 120735304097
+  },
+  "16307": {
+      "note": "16307 Gartz (Oder)",
+      "einwohner": 3972,
+      "qkm": 128.596007,
+      "Voltis": 0,
+      "RS": 120735304189
+  },
+  "16321": {
+      "note": "16321 Bernau",
+      "einwohner": 37758,
+      "qkm": 118.341297,
+      "Voltis": 0,
+      "RS": 120600020020
+  },
+  "16341": {
+      "note": "16341 Panketal",
+      "einwohner": 18888,
+      "qkm": 26.041953,
+      "Voltis": 0,
+      "RS": 120600181181
+  },
+  "16348": {
+      "note": "16348 Wandlitz",
+      "einwohner": 22428,
+      "qkm": 204.303654,
+      "Voltis": 0,
+      "RS": 120600269269
+  },
+  "16356": {
+      "note": "16356 Werneuchen",
+      "einwohner": 20587,
+      "qkm": 175.078642,
+      "Voltis": 0,
+      "RS": 120600005005
+  },
+  "16359": {
+      "note": "16359 Biesenthal",
+      "einwohner": 5515,
+      "qkm": 60.479974,
+      "Voltis": 0,
+      "RS": 120605003024
+  },
+  "16515": {
+      "note": "16515 Oranienburg, Mühlenbecker Land",
+      "einwohner": 43375,
+      "qkm": 180.410213,
+      "Voltis": 2,
+      "RS": 120650256256
+  },
+  "16540": {
+      "note": "16540 Hohen Neuendorf",
+      "einwohner": 14728,
+      "qkm": 19.408164,
+      "Voltis": 0,
+      "RS": 120650144144
+  },
+  "16547": {
+      "note": "16547 Birkenwerder",
+      "einwohner": 7716,
+      "qkm": 18.185567,
+      "Voltis": 0,
+      "RS": 120650036036
+  },
+  "16548": {
+      "note": "16548 Glienicke/Nordbahn",
+      "einwohner": 11070,
+      "qkm": 4.627335,
+      "Voltis": 0,
+      "RS": 120650096096
+  },
+  "16552": {
+      "note": "16552 Schildow",
+      "einwohner": 6103,
+      "qkm": 6.601732,
+      "Voltis": 1,
+      "RS": 120650225225
+  },
+  "16556": {
+      "note": "16556 Borgsdorf",
+      "einwohner": 4438,
+      "qkm": 15.790555,
+      "Voltis": 0,
+      "RS": 120650144144
+  },
+  "16559": {
+      "note": "16559 Liebenwalde",
+      "einwohner": 4323,
+      "qkm": 144.292744,
+      "Voltis": 0,
+      "RS": 120650193193
+  },
+  "16562": {
+      "note": "16562 Hohen Neuendorf OT Bergfelde",
+      "einwohner": 5502,
+      "qkm": 13.176929,
+      "Voltis": 1,
+      "RS": 120650144144
+  },
+  "16567": {
+      "note": "16567 Mühlenbecker Land",
+      "einwohner": 5971,
+      "qkm": 29.752963,
+      "Voltis": 0,
+      "RS": 120650225225
+  },
+  "16727": {
+      "note": "16727 Velten, Oberkrämer",
+      "einwohner": 21896,
+      "qkm": 127.629559,
+      "Voltis": 2,
+      "RS": 120650251251
+  },
+  "16761": {
+      "note": "16761 Hennigsdorf",
+      "einwohner": 25527,
+      "qkm": 31.120745,
+      "Voltis": 2,
+      "RS": 120650136136
+  },
+  "16766": {
+      "note": "16766 Kremmen",
+      "einwohner": 7166,
+      "qkm": 207.961611,
+      "Voltis": 0,
+      "RS": 120650165165
+  },
+  "16767": {
+      "note": "16767 Leegebruch",
+      "einwohner": 6573,
+      "qkm": 6.429799,
+      "Voltis": 0,
+      "RS": 120650180180
+  },
+  "16775": {
+      "note": "16775 Gransee, Löwenberg",
+      "einwohner": 17346,
+      "qkm": 567.727658,
+      "Voltis": 0,
+      "RS": 120650198198
+  },
+  "16792": {
+      "note": "16792 Zehdenick",
+      "einwohner": 13669,
+      "qkm": 223.272568,
+      "Voltis": 0,
+      "RS": 120650356356
+  },
+  "16798": {
+      "note": "16798 Fürstenberg",
+      "einwohner": 6178,
+      "qkm": 214.35581,
+      "Voltis": 0,
+      "RS": 120650084084
+  },
+  "16816": {
+      "note": "16816 Neuruppin",
+      "einwohner": 24358,
+      "qkm": 62.33914,
+      "Voltis": 0,
+      "RS": 120680320320
+  },
+  "16818": {
+      "note": "16818 Fehrbellin, Temnitzquell, Märkisch Linden u.a.",
+      "einwohner": 8234,
+      "qkm": 413.82477,
+      "Voltis": 0,
+      "RS": 120685807072
+  },
+  "16827": {
+      "note": "16827 Neuruppin",
+      "einwohner": 3007,
+      "qkm": 90.783962,
+      "Voltis": 0,
+      "RS": 120680320320
+  },
+  "16831": {
+      "note": "16831 Rheinsberg",
+      "einwohner": 6175,
+      "qkm": 175.176555,
+      "Voltis": 0,
+      "RS": 120680353353
+  },
+  "16833": {
+      "note": "16833 Fehrbellin",
+      "einwohner": 6616,
+      "qkm": 198.939295,
+      "Voltis": 0,
+      "RS": 120680117117
+  },
+  "16835": {
+      "note": "16835 Lindow u.a.",
+      "einwohner": 5666,
+      "qkm": 150.325398,
+      "Voltis": 0,
+      "RS": 120685804188
+  },
+  "16837": {
+      "note": "16837 Rheinsberg",
+      "einwohner": 1730,
+      "qkm": 121.496483,
+      "Voltis": 0,
+      "RS": 120680353353
+  },
+  "16845": {
+      "note": "16845 Neustadt (Dosse) u.a.",
+      "einwohner": 12736,
+      "qkm": 477.016197,
+      "Voltis": 0,
+      "RS": 120635309112
+  },
+  "16866": {
+      "note": "16866 Gumtow, Kyritz u.a.",
+      "einwohner": 13406,
+      "qkm": 410.621586,
+      "Voltis": 0,
+      "RS": 120680264264
+  },
+  "16868": {
+      "note": "16868 Wusterhausen",
+      "einwohner": 3329,
+      "qkm": 36.173304,
+      "Voltis": 0,
+      "RS": 120680477477
+  },
+  "16909": {
+      "note": "16909 Wittstock/Dosse, Heiligengrabe",
+      "einwohner": 19607,
+      "qkm": 628.243688,
+      "Voltis": 0,
+      "RS": 120680181181
+  },
+  "16928": {
+      "note": "16928 Pritzwalk, Groß Pankow",
+      "einwohner": 17030,
+      "qkm": 441.27482,
+      "Voltis": 0,
+      "RS": 120700125125
+  },
+  "16945": {
+      "note": "16945 Meyenburg, Kümmernitztal u.a.",
+      "einwohner": 4020,
+      "qkm": 188.55326,
+      "Voltis": 0,
+      "RS": 120705006153
+  },
+  "16949": {
+      "note": "16949 Triglitz, Putlitz",
+      "einwohner": 3330,
+      "qkm": 151.621255,
+      "Voltis": 0,
+      "RS": 120705009325
+  },
+  "17268": {
+      "note": "17268 Templin, Boitzenburg u.a.",
+      "einwohner": 24667,
+      "qkm": 891.886712,
+      "Voltis": 0,
+      "RS": 120730069069
+  },
+  "17279": {
+      "note": "17279 Lychen",
+      "einwohner": 3294,
+      "qkm": 111.8899,
+      "Voltis": 0,
+      "RS": 120730384384
+  },
+  "17291": {
+      "note": "17291 Prenzlau, Nordwestuckermark u.a.",
+      "einwohner": 33481,
+      "qkm": 812.443507,
+      "Voltis": 0,
+      "RS": 120730429429
+  },
+  "17326": {
+      "note": "17326 Brüssow",
+      "einwohner": 2025,
+      "qkm": 102.080202,
+      "Voltis": 0,
+      "RS": 120735303085
+  },
+  "17337": {
+      "note": "17337 Uckerland, Groß Luckow, Schönhausen",
+      "einwohner": 3443,
+      "qkm": 195.96791,
+      "Voltis": 0,
+      "RS": 120730579579
+  },
+  "19309": {
+      "note": "19309 Lenzen",
+      "einwohner": 3684,
+      "qkm": 198.626455,
+      "Voltis": 0,
+      "RS": 120705005236
+  },
+  "19322": {
+      "note": "19322 Wittenberge, Rühstädt",
+      "einwohner": 21671,
+      "qkm": 140.991027,
+      "Voltis": 0,
+      "RS": 120700424424
+  },
+  "19336": {
+      "note": "19336 Legde/Quitzöbel, Bad Wilsnack",
+      "einwohner": 3307,
+      "qkm": 121.596803,
+      "Voltis": 0,
+      "RS": 120705001008
+  },
+  "19339": {
+      "note": "19339 Plattenburg",
+      "einwohner": 3643,
+      "qkm": 201.98863,
+      "Voltis": 0,
+      "RS": 120700302302
+  },
+  "19348": {
+      "note": "19348 Perleberg, Berge u.a.",
+      "einwohner": 14042,
+      "qkm": 227.320384,
+      "Voltis": 0,
+      "RS": 120700296296
+  },
+  "19357": {
+      "note": "19357 Karstädt, Dambeck, Klüß",
+      "einwohner": 6757,
+      "qkm": 276.975757,
+      "Voltis": 0,
+      "RS": 120700173173
+  }
+}
